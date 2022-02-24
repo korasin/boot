@@ -1,10 +1,12 @@
 .author{
-    color: darkblue;
+    color: rgb(29, 5, 251);
     font-style: italic;
-    font-size: 10px;
+    font-size: 45px;
 }
 .intro{
-    background-color: blueviolet;
-    color: darkorchid;
-    margin: 20px solid black;
+    background-color: rgb(86, 112, 90);
+    color: rgb(12, 11, 12);
+}
+body{
+    font-size: 23px;
 }

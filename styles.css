@@ -1,0 +1,10 @@
+.author{
+    color: darkblue;
+    font-style: italic;
+    font-size: 10px;
+}
+.intro{
+    background-color: blueviolet;
+    color: darkorchid;
+    margin: 20px solid black;
+}
